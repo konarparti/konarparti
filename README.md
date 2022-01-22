@@ -2,8 +2,8 @@
 
 ### 📈 My Stats
 <p align="center">
-  <a width="750px" align="center" href="https://www.codewars.com/users/konarparti">
-  <img width="750px" align="center" src="https://www.codewars.com/users/konarparti/badges/large">
+  <a width="300px" align="left" href="https://www.codewars.com/users/konarparti">
+  <img width="300px" align="left" src="https://www.codewars.com/users/konarparti/badges/small">
   </a>
   <table>
   <tr>
