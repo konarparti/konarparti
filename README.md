@@ -18,7 +18,7 @@
 <h1></h1>
 
 ## 📈 Stats
-[![codewars](https://www.codewars.com/users/konarparti/badges/small)](https://www.codewars.com/users/konarparti)
+[![wakatime](https://wakatime.com/badge/user/809d9986-ac81-4605-b80b-af1912d5fc1e.svg)](https://wakatime.com/@809d9986-ac81-4605-b80b-af1912d5fc1e)
 
 ![githib stats](https://github-readme-stats.vercel.app/api?username=konarparti&hide_border=true&count_private=true&include_all_commits=true&layout=compact&show_icons=true&theme=cobalt&icon_color=5194f0&bg_color=0d1117&locale=en)
 
