@@ -20,7 +20,7 @@
 ## 📈 Stats
 [![wakatime](https://wakatime.com/badge/user/809d9986-ac81-4605-b80b-af1912d5fc1e.svg)](https://wakatime.com/@809d9986-ac81-4605-b80b-af1912d5fc1e)
 
-![githib stats](https://github-readme-stats.vercel.app/api?username=konarparti&hide_border=true&count_private=true&include_all_commits=true&layout=compact&show_icons=true&theme=cobalt&icon_color=5194f0&bg_color=0d1117&locale=en)
+![githib stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=konarparti&hide_border=true&count_private=true&include_all_commits=true&layout=compact&show_icons=true&theme=cobalt&icon_color=5194f0&bg_color=0d1117&locale=en)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konarparti&langs_count=7&hide=css,scss&layout=compact&hide_border=true&theme=dark&icon_color=5194f0&bg_color=0d1117)
+![top langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=konarparti&langs_count=7&hide=css,scss&layout=compact&hide_border=true&theme=dark&icon_color=5194f0&bg_color=0d1117)
   
