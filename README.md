@@ -9,6 +9,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-%23f7e018.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-9b4e97.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)
 <h1></h1>
 
 ## Streaks
